@@ -7,7 +7,7 @@ Django==1.11.28
 django-ckeditor==5.9.0
 django-cors-headers==3.2.1
 django-crispy-forms==1.8.1
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-formtools==2.2
 django-import-export==2.0.1
 django-js-asset==1.2.2
